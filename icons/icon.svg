@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#7a4fc7"/>
+  <rect x="56" y="56" width="400" height="400" rx="34" fill="#fffdf7"/>
+  <g stroke="#bcd3ea" stroke-width="5" fill="none"><path d="M64 150 H448" /><path d="M64 210 H448" /><path d="M64 270 H448" /><path d="M64 330 H448" /><path d="M64 390 H448" /></g>
+  <path d="M104 56 V456" stroke="#f2a6b5" stroke-width="6"/>
+  <ellipse cx="270" cy="415" rx="96" ry="14" fill="#3b3548" opacity=".12"/>
+  <path d="M270.0 177.0 A31.2 31.2 0 0 1 321.2 187.7 A31.2 31.2 0 0 1 362.3 217.7 A31.2 31.2 0 0 1 385.0 261.0 A31.2 31.2 0 0 1 385.0 309.0 A31.2 31.2 0 0 1 362.3 352.3 A31.2 31.2 0 0 1 321.2 382.3 A31.2 31.2 0 0 1 270.0 393.0 A31.2 31.2 0 0 1 218.8 382.3 A31.2 31.2 0 0 1 177.7 352.3 A31.2 31.2 0 0 1 155.0 309.0 A31.2 31.2 0 0 1 155.0 261.0 A31.2 31.2 0 0 1 177.7 217.7 A31.2 31.2 0 0 1 218.8 187.7 A31.2 31.2 0 0 1 270.0 177.0Z" fill="#e5d8fa" stroke="#3b3548" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M190.0 122.0 A17.6 17.6 0 0 1 214.0 133.1 A17.6 17.6 0 0 1 224.0 160.0 A17.6 17.6 0 0 1 214.0 186.9 A17.6 17.6 0 0 1 190.0 198.0 A17.6 17.6 0 0 1 166.0 186.9 A17.6 17.6 0 0 1 156.0 160.0 A17.6 17.6 0 0 1 166.0 133.1 A17.6 17.6 0 0 1 190.0 122.0Z" fill="#e5d8fa" stroke="#3b3548" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M350.0 122.0 A17.6 17.6 0 0 1 374.0 133.1 A17.6 17.6 0 0 1 384.0 160.0 A17.6 17.6 0 0 1 374.0 186.9 A17.6 17.6 0 0 1 350.0 198.0 A17.6 17.6 0 0 1 326.0 186.9 A17.6 17.6 0 0 1 316.0 160.0 A17.6 17.6 0 0 1 326.0 133.1 A17.6 17.6 0 0 1 350.0 122.0Z" fill="#e5d8fa" stroke="#3b3548" stroke-width="9" stroke-linejoin="round"/>
+  <circle cx="226" cy="278" r="13" fill="#3b3548"/><circle cx="314" cy="278" r="13" fill="#3b3548"/>
+  <circle cx="231" cy="273" r="4" fill="#fff"/><circle cx="319" cy="273" r="4" fill="#fff"/>
+  <path d="M244 318 Q270 342 296 318" stroke="#3b3548" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <ellipse cx="200" cy="312" rx="16" ry="10" fill="#f4a6c4" opacity=".7"/><ellipse cx="340" cy="312" rx="16" ry="10" fill="#f4a6c4" opacity=".7"/>
+  <g transform="rotate(38 410 360)"><rect x="396" y="290" width="28" height="120" rx="4" fill="#129486" stroke="#3b3548" stroke-width="6"/><path d="M396 410 L410 440 L424 410Z" fill="#f6d9a8" stroke="#3b3548" stroke-width="6" stroke-linejoin="round"/></g>
+</svg>
