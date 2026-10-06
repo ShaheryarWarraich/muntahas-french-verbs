@@ -37,6 +37,7 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: [`**/*.{${exts}}`],
+        globIgnores: ['**/gate.json'],
         maximumFileSizeToCacheInBytes: (cacheVideos ? 25 : 6) * MB,
         navigateFallback: 'index.html',
       },

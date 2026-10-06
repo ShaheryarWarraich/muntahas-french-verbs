@@ -215,3 +215,9 @@ h1 { font-size: clamp(2.6rem, 8vw, 4rem); } h2 { font-size: 1.9rem; } h3 { font-
 }
 @media (max-height: 560px) and (orientation: landscape) { .key { height: 40px; } .key.acc { height: 42px; } .qwrap { gap: 8px; } .feedback { min-height: 52px; } }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+/* Temporary gate (public/gate.json) */
+.gate { position: fixed; inset: 0; z-index: 1000; display: flex; align-items: center; justify-content: center; padding: 24px; background: #fdfbf5; }
+.gate-card { max-width: 520px; width: 100%; text-align: center; background: #fff; border: 3px solid #3A3F52; border-radius: 255px 18px 225px 18px / 18px 225px 18px 255px; padding: 36px 28px; box-shadow: 8px 10px 0 rgba(58,63,82,.14); display: flex; flex-direction: column; align-items: center; gap: 10px; }
+.gate-card h1 { margin: 0; font-size: 36px; line-height: 1.1; color: #6c4fd6; }
+.gate-card p { margin: 0; font-size: 18px; color: #5a577a; }
