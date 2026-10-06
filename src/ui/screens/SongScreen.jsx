@@ -17,7 +17,7 @@ export default function SongScreen({ go }) {
       <div className="tabs">{VIDEOS.map(x => <button key={x.id} className={`tab ${tab === x.id ? 'on' : ''}`} onClick={() => setTab(x.id)}>{x.label}</button>)}</div>
       {missing[v.id]
         ? <div className="card placeholder"><Mascot mood="sleepy" size={130} /><div className="hand">Coming soon</div><div className="muted">The {v.label.toLowerCase()} is not here yet.</div></div>
-        : <div className="video"><video key={v.id} controls playsInline preload="metadata" onError={() => setMissing(m => ({ ...m, [v.id]: true }))} src={`${import.meta.env.BASE_URL}${v.file}`} /></div>}
+        : <div className="video"><video poster="video/poster.png" key={v.id} controls playsInline preload="metadata" onError={() => setMissing(m => ({ ...m, [v.id]: true }))} src={`${import.meta.env.BASE_URL}${v.file}`} /></div>}
     </div>
   );
 }
