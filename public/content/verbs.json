@@ -1,0 +1,452 @@
+{
+  "learner": {
+    "name": "Muntaha",
+    "grade": 5,
+    "age": 10
+  },
+  "goal": "Quiz next Wednesday on être and avoir: full present-tense conjugations, meanings, spellings, and simple sentences.",
+  "pronouns": [
+    {
+      "fr": "je",
+      "en": "I",
+      "note": "I"
+    },
+    {
+      "fr": "tu",
+      "en": "you",
+      "note": "you (one friend)"
+    },
+    {
+      "fr": "il",
+      "en": "he",
+      "note": "he / it"
+    },
+    {
+      "fr": "elle",
+      "en": "she",
+      "note": "she / it"
+    },
+    {
+      "fr": "nous",
+      "en": "we",
+      "note": "we"
+    },
+    {
+      "fr": "vous",
+      "en": "you",
+      "note": "you (many people, or polite)"
+    },
+    {
+      "fr": "ils",
+      "en": "they",
+      "note": "they (boys, or a mixed group)"
+    },
+    {
+      "fr": "elles",
+      "en": "they",
+      "note": "they (girls)"
+    }
+  ],
+  "verbs": [
+    {
+      "id": "etre",
+      "infinitive": "être",
+      "en": "to be",
+      "color": "purple",
+      "forms": [
+        {
+          "pronoun": "je",
+          "form": "suis",
+          "full": "je suis",
+          "en": "I am"
+        },
+        {
+          "pronoun": "tu",
+          "form": "es",
+          "full": "tu es",
+          "en": "you are"
+        },
+        {
+          "pronoun": "il",
+          "form": "est",
+          "full": "il est",
+          "en": "he is"
+        },
+        {
+          "pronoun": "elle",
+          "form": "est",
+          "full": "elle est",
+          "en": "she is"
+        },
+        {
+          "pronoun": "nous",
+          "form": "sommes",
+          "full": "nous sommes",
+          "en": "we are"
+        },
+        {
+          "pronoun": "vous",
+          "form": "êtes",
+          "full": "vous êtes",
+          "en": "you are"
+        },
+        {
+          "pronoun": "ils",
+          "form": "sont",
+          "full": "ils sont",
+          "en": "they are"
+        },
+        {
+          "pronoun": "elles",
+          "form": "sont",
+          "full": "elles sont",
+          "en": "they are"
+        }
+      ],
+      "spelling": [
+        {
+          "word": "être",
+          "tip": "The first e wears a little hat: ê. It is called a circumflex.",
+          "highlight": [
+            0
+          ]
+        },
+        {
+          "word": "sommes",
+          "tip": "Two m's in the middle: s-o-m-m-e-s.",
+          "highlight": [
+            2,
+            3
+          ]
+        },
+        {
+          "word": "êtes",
+          "tip": "The hat again on the e, then t-e-s.",
+          "highlight": [
+            0
+          ]
+        },
+        {
+          "word": "est",
+          "tip": "Tu es has two letters. Il est and elle est have three; the t is silent, so es and est sound the same.",
+          "highlight": [
+            2
+          ]
+        },
+        {
+          "word": "sont",
+          "tip": "Sont starts with s, like suis. Both belong to être.",
+          "highlight": [
+            0
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "fr": "Je suis élève.",
+          "en": "I am a student.",
+          "form": "suis",
+          "pronoun": "je",
+          "rest": "élève"
+        },
+        {
+          "fr": "Tu es content.",
+          "en": "You are happy.",
+          "form": "es",
+          "pronoun": "tu",
+          "rest": "content"
+        },
+        {
+          "fr": "Il est gentil.",
+          "en": "He is kind.",
+          "form": "est",
+          "pronoun": "il",
+          "rest": "gentil"
+        },
+        {
+          "fr": "Elle est jolie.",
+          "en": "She is pretty.",
+          "form": "est",
+          "pronoun": "elle",
+          "rest": "jolie"
+        },
+        {
+          "fr": "Nous sommes amis.",
+          "en": "We are friends.",
+          "form": "sommes",
+          "pronoun": "nous",
+          "rest": "amis"
+        },
+        {
+          "fr": "Vous êtes grands.",
+          "en": "You are tall.",
+          "form": "êtes",
+          "pronoun": "vous",
+          "rest": "grands"
+        },
+        {
+          "fr": "Ils sont gentils.",
+          "en": "They are kind.",
+          "form": "sont",
+          "pronoun": "ils",
+          "rest": "gentils"
+        },
+        {
+          "fr": "Elles sont contentes.",
+          "en": "They are happy.",
+          "form": "sont",
+          "pronoun": "elles",
+          "rest": "contentes"
+        }
+      ]
+    },
+    {
+      "id": "avoir",
+      "infinitive": "avoir",
+      "en": "to have",
+      "color": "teal",
+      "forms": [
+        {
+          "pronoun": "je",
+          "form": "ai",
+          "full": "j'ai",
+          "en": "I have",
+          "contracted": true
+        },
+        {
+          "pronoun": "tu",
+          "form": "as",
+          "full": "tu as",
+          "en": "you have"
+        },
+        {
+          "pronoun": "il",
+          "form": "a",
+          "full": "il a",
+          "en": "he has"
+        },
+        {
+          "pronoun": "elle",
+          "form": "a",
+          "full": "elle a",
+          "en": "she has"
+        },
+        {
+          "pronoun": "nous",
+          "form": "avons",
+          "full": "nous avons",
+          "en": "we have"
+        },
+        {
+          "pronoun": "vous",
+          "form": "avez",
+          "full": "vous avez",
+          "en": "you have"
+        },
+        {
+          "pronoun": "ils",
+          "form": "ont",
+          "full": "ils ont",
+          "en": "they have"
+        },
+        {
+          "pronoun": "elles",
+          "form": "ont",
+          "full": "elles ont",
+          "en": "they have"
+        }
+      ],
+      "spelling": [
+        {
+          "word": "j'ai",
+          "tip": "Je + ai. The e runs away and an apostrophe takes its place: j-apostrophe-a-i.",
+          "highlight": [
+            1
+          ]
+        },
+        {
+          "word": "as",
+          "tip": "Tu as has an s. Il a and elle a are just a.",
+          "highlight": [
+            1
+          ]
+        },
+        {
+          "word": "avons",
+          "tip": "Nous ends in -ons, like most French verbs.",
+          "highlight": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "word": "avez",
+          "tip": "Vous ends in -ez, like most French verbs.",
+          "highlight": [
+            2,
+            3
+          ]
+        },
+        {
+          "word": "ont",
+          "tip": "Ils ont = they have. Ils sont = they are. No s means have.",
+          "highlight": [
+            0
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "fr": "J'ai un frère.",
+          "en": "I have a brother.",
+          "form": "ai",
+          "pronoun": "je",
+          "rest": "un frère"
+        },
+        {
+          "fr": "J'ai dix ans.",
+          "en": "I am ten years old.",
+          "form": "ai",
+          "pronoun": "je",
+          "rest": "dix ans",
+          "tip": "In French you have your years: j'ai dix ans."
+        },
+        {
+          "fr": "Tu as une sœur.",
+          "en": "You have a sister.",
+          "form": "as",
+          "pronoun": "tu",
+          "rest": "une sœur"
+        },
+        {
+          "fr": "Il a un chien.",
+          "en": "He has a dog.",
+          "form": "a",
+          "pronoun": "il",
+          "rest": "un chien"
+        },
+        {
+          "fr": "Elle a un livre.",
+          "en": "She has a book.",
+          "form": "a",
+          "pronoun": "elle",
+          "rest": "un livre"
+        },
+        {
+          "fr": "Nous avons un chat.",
+          "en": "We have a cat.",
+          "form": "avons",
+          "pronoun": "nous",
+          "rest": "un chat"
+        },
+        {
+          "fr": "Vous avez des amis.",
+          "en": "You have friends.",
+          "form": "avez",
+          "pronoun": "vous",
+          "rest": "des amis"
+        },
+        {
+          "fr": "Ils ont un ballon.",
+          "en": "They have a ball.",
+          "form": "ont",
+          "pronoun": "ils",
+          "rest": "un ballon"
+        },
+        {
+          "fr": "Elles ont dix ans.",
+          "en": "They are ten years old.",
+          "form": "ont",
+          "pronoun": "elles",
+          "rest": "dix ans",
+          "tip": "Age uses avoir: elles ont dix ans."
+        }
+      ]
+    }
+  ],
+  "traps": [
+    {
+      "a": "ils sont",
+      "aEn": "they are",
+      "b": "ils ont",
+      "bEn": "they have",
+      "tip": "sont = être (it has the s of suis); ont = avoir."
+    },
+    {
+      "a": "tu es",
+      "aEn": "you are",
+      "b": "il est",
+      "bEn": "he is",
+      "tip": "Same sound. es for tu, est for il and elle."
+    },
+    {
+      "a": "tu as",
+      "aEn": "you have",
+      "b": "il a",
+      "bEn": "he has",
+      "tip": "Same sound. as for tu, a for il and elle."
+    },
+    {
+      "a": "j'ai dix ans",
+      "aEn": "I am ten",
+      "b": "je suis élève",
+      "bEn": "I am a student",
+      "tip": "Age uses avoir in French. Being someone or something uses être."
+    }
+  ],
+  "vocabulary": [
+    {
+      "fr": "élève",
+      "en": "student"
+    },
+    {
+      "fr": "gentil / gentille",
+      "en": "kind"
+    },
+    {
+      "fr": "content / contente",
+      "en": "happy"
+    },
+    {
+      "fr": "jolie",
+      "en": "pretty"
+    },
+    {
+      "fr": "amis",
+      "en": "friends"
+    },
+    {
+      "fr": "grands",
+      "en": "tall / big"
+    },
+    {
+      "fr": "un frère",
+      "en": "a brother"
+    },
+    {
+      "fr": "une sœur",
+      "en": "a sister"
+    },
+    {
+      "fr": "un chat",
+      "en": "a cat"
+    },
+    {
+      "fr": "un chien",
+      "en": "a dog"
+    },
+    {
+      "fr": "un livre",
+      "en": "a book"
+    },
+    {
+      "fr": "un ballon",
+      "en": "a ball"
+    },
+    {
+      "fr": "dix ans",
+      "en": "ten years"
+    }
+  ]
+}
